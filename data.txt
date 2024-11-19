@@ -1,0 +1,199 @@
+Patient Name: Dinesh
+Age: 25
+Gender: Male
+Address: 123, Connaught Place, New Delhi
+Symptoms: Fever, Cough
+Diagnosis: Common Cold
+Medications: Paracetamol 500mg
+Recommendations: Rest for 2 days
+Directions: Take one tablet of Paracetamol 500mg with water after food every 4-6 hours for pain or fever. Do not exceed 4 doses in 24 hours. Rest for 2 days.
+
+Patient Name: John Doe
+Age: 35
+Gender: Male
+Address: 456, Juhu Beach Road, Mumbai
+Symptoms: Fever, Cough, Body Aches
+Diagnosis: Influenza
+Medications: Paracetamol 500mg
+Recommendations: Rest for 5 days
+Directions: Take one Paracetamol 500mg tablet with food every 4-6 hours for fever or body aches. Ensure to drink plenty of fluids. Do not take more than 4 doses in 24 hours. Rest for at least 5 days.
+
+Patient Name: Jane Smith
+Age: 40
+Gender: Female
+Address: 789, Brigade Road, Bangalore
+Symptoms: Headache, Nausea, Dizziness
+Diagnosis: Migraine
+Medications: Ibuprofen 200mg
+Recommendations: Avoid bright lights
+Directions: Take one Ibuprofen 200mg tablet with food every 6-8 hours as needed for headache. Do not exceed 3 doses in 24 hours. Avoid bright lights and loud sounds while resting.
+
+Patient Name: Michael Johnson
+Age: 29
+Gender: Male
+Address: 101, Mount Road, Chennai
+Symptoms: Sore Throat, Fatigue
+Diagnosis: Strep Throat
+Medications: Amoxicillin 500mg
+Recommendations: Complete antibiotics course
+Directions: Take one Amoxicillin 500mg tablet every 8 hours for 10 days. Complete the entire course even if symptoms improve. Take with food or after meals to avoid stomach upset.
+
+Patient Name: Emily Davis
+Age: 50
+Gender: Female
+Address: 202, HSR Layout, Bangalore
+Symptoms: Chest Pain, Shortness of Breath
+Diagnosis: Hypertension
+Medications: Amlodipine 10mg
+Recommendations: Regular exercise and low-sodium diet
+Directions: Take one Amlodipine 10mg tablet once daily, preferably at the same time each day. Take with or without food. Avoid high-sodium foods and maintain a low-fat diet.
+
+Patient Name: Sarah Wilson
+Age: 25
+Gender: Female
+Address: 303, Indiranagar, Bangalore
+Symptoms: Itchy Eyes, Runny Nose
+Diagnosis: Allergic Rhinitis
+Medications: Cetirizine 10mg
+Recommendations: Avoid allergens, use air purifier
+Directions: Take one Cetirizine 10mg tablet once a day, preferably in the evening. Avoid allergens, and consider using an air purifier in your home. Drink plenty of water.
+
+Patient Name: David Lee
+Age: 60
+Gender: Male
+Address: 404, Ashok Nagar, Chennai
+Symptoms: Frequent Urination, Increased Thirst
+Diagnosis: Type 2 Diabetes
+Medications: Metformin 500mg
+Recommendations: Monitor blood sugar, follow diabetic diet
+Directions: Take one Metformin 500mg tablet with food twice a day, morning and evening. Monitor your blood sugar levels regularly. Maintain a low-sugar, high-fiber diet.
+
+Patient Name: Sophia Martinez
+Age: 45
+Gender: Female
+Address: 505, Banjara Hills, Hyderabad
+Symptoms: Joint Pain, Morning Stiffness
+Diagnosis: Rheumatoid Arthritis
+Medications: Methotrexate 15mg
+Recommendations: Physiotherapy, anti-inflammatory diet
+Directions: Take one Methotrexate 15mg tablet once a week on the same day each week, with or without food. Ensure you are properly hydrated and take folic acid as prescribed.
+
+Patient Name: James Brown
+Age: 70
+Gender: Male
+Address: 606, Marine Drive, Mumbai
+Symptoms: Memory Loss, Confusion
+Diagnosis: Alzheimer's Disease
+Medications: Donepezil 10mg
+Recommendations: Memory exercises, caregiver assistance
+Directions: Take one Donepezil 10mg tablet at bedtime each day. Avoid taking with alcohol. Engage in memory exercises daily to help manage symptoms.
+
+Patient Name: Olivia Garcia
+Age: 18
+Gender: Female
+Address: 707, Koramangala, Bangalore
+Symptoms: Acne, Oily Skin
+Diagnosis: Acne Vulgaris
+Medications: Tretinoin Cream
+Recommendations: Cleanse face daily, avoid greasy foods
+Directions: Apply a thin layer of Tretinoin Cream to affected areas before bedtime. Wash face gently before applying. Avoid exposure to sunlight and greasy foods. Be patient, as improvement may take several weeks.
+
+Patient Name: William Martinez
+Age: 55
+Gender: Male
+Address: 808, Malad West, Mumbai
+Symptoms: Back Pain, Limited Mobility
+Diagnosis: Lumbar Spondylosis
+Medications: Naproxen 250mg
+Recommendations: Physiotherapy, ergonomic chair
+Directions: Take one Naproxen 250mg tablet twice a day, preferably with food to avoid stomach irritation. Follow physiotherapy exercises regularly and use an ergonomic chair.
+
+Patient Name: Ashley Thomas
+Age: 30
+Gender: Female
+Address: 909, Andheri East, Mumbai
+Symptoms: Shortness of Breath, Wheezing
+Diagnosis: Asthma
+Medications: Salbutamol Inhaler
+Recommendations: Avoid allergens, use inhaler as needed
+Directions: Use Salbutamol Inhaler as needed for wheezing or shortness of breath. Inhale 1-2 puffs. If symptoms persist, consult your doctor. Avoid allergens that trigger asthma.
+
+Patient Name: Ethan Clark
+Age: 65
+Gender: Male
+Address: 1001, R. K. Puram, New Delhi
+Symptoms: Persistent Cough, Weight Loss
+Diagnosis: Lung Cancer
+Medications: Chemotherapy Drugs
+Recommendations: Consult oncologist, balanced diet
+Directions: Follow your oncologist's specific instructions for chemotherapy schedules. Ensure to stay hydrated and maintain a healthy, balanced diet during treatment.
+
+Patient Name: Chloe White
+Age: 22
+Gender: Female
+Address: 1102, Egmore, Chennai
+Symptoms: Nausea, Abdominal Pain
+Diagnosis: Appendicitis
+Medications: None (surgery performed)
+Recommendations: Post-surgery rest and follow-up
+Directions: Follow your doctor's post-surgery care instructions. Rest and avoid heavy activities for at least 2 weeks. Attend follow-up appointments to monitor recovery.
+
+Patient Name: Benjamin Harris
+Age: 48
+Gender: Male
+Address: 1203, Alambagh, Lucknow
+Symptoms: Blurry Vision, Eye Pain
+Diagnosis: Glaucoma
+Medications: Timolol Eye Drops
+Recommendations: Regular eye check-ups, use drops daily
+Directions: Place one drop of Timolol in each affected eye twice a day, morning and night. Avoid touching the dropper to the eye or any surface to prevent contamination. Regularly visit your eye specialist.
+
+Patient Name: Mia Robinson
+Age: 37
+Gender: Female
+Address: 1304, Gachibowli, Hyderabad
+Symptoms: Skin Rash, Swelling
+Diagnosis: Eczema
+Medications: Hydrocortisone Cream
+Recommendations: Moisturize skin, avoid irritants
+Directions: Apply a thin layer of Hydrocortisone Cream to the affected area twice daily. Avoid skin irritants and moisturize regularly to prevent dryness. Do not use on broken skin.
+
+Patient Name: Noah Walker
+Age: 42
+Gender: Male
+Address: 1405, Whitefield, Bangalore
+Symptoms: Chest Discomfort, Fatigue
+Diagnosis: Coronary Artery Disease
+Medications: Atorvastatin 20mg
+Recommendations: Exercise regularly, low-fat diet
+Directions: Take one Atorvastatin 20mg tablet at night with or without food. Regular exercise and a low-fat diet are essential for managing your condition.
+
+Patient Name: Isabella Hall
+Age: 28
+Gender: Female
+Address: 1506, Nungambakkam, Chennai
+Symptoms: Fever, Chills, Muscle Pain
+Diagnosis: Dengue Fever
+Medications: Acetaminophen
+Recommendations: Stay hydrated, rest
+Directions: Take one Acetaminophen tablet every 4-6 hours for fever and muscle pain. Do not exceed 4 doses in 24 hours. Drink plenty of fluids and rest.
+
+Patient Name: Mason Allen
+Age: 34
+Gender: Male
+Address: 1607, Secunderabad, Hyderabad
+Symptoms: Severe Toothache, Swollen Gums
+Diagnosis: Dental Abscess
+Medications: Amoxicillin 250mg
+Recommendations: Dental procedure, maintain oral hygiene
+Directions: Take one Amoxicillin 250mg tablet every 8 hours. Complete the entire course, even if symptoms improve. Maintain oral hygiene and follow the dentist's recommendations.
+
+Patient Name: Charlotte King
+Age: 26
+Gender: Female
+Address: 1708, Bandra, Mumbai
+Symptoms: Irregular Periods, Acne
+Diagnosis: Polycystic Ovary Syndrome (PCOS)
+Medications: Oral Contraceptives
+Recommendations: Healthy diet, regular exercise
+Directions: Take one Oral Contraceptive tablet daily, preferably at the same time each day. Consult your gynecologist for any irregularities and follow a balanced diet.
